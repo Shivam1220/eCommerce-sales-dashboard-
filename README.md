@@ -41,8 +41,8 @@ This project focuses on building a dynamic **Ecommerce Sales Dashboard** using *
 
 - Gained hands-on experience in building dashboards using Power BI.
 - Strengthened skills in data visualization, DAX, and storytelling with data.
-📬 Contact
-Shivam Kumar
+## 📬 Contact
+    Name : Shivam Kumar
 📧 Email: shivam70501741@gmail.com
 📱 Phone: +91-7739951192
 🌐 LinkedIn: linkedin.com/in/sk1220
